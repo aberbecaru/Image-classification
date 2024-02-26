@@ -1,1 +1,1 @@
-Image-classification task using CNN, KNN and Naive Bayes
+Image-classification task using CNN, SVM and Naive Bayes
